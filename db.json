@@ -1,0 +1,22 @@
+{
+    "funcionarios": [
+        {"nome": "Natália","cargo": "repositora","id": 1010,"salario": 10000},
+        {"nome": "João", "cargo": "caixa", "id": 2020, "salario": 20000},
+        {"nome": "Luiz", "cargo": "segurança", "id": 3030, "salario": 5000},
+        {"nome": "Mariana", "cargo": "limpeza", "id": 4040, "salario": 1000}
+    ],
+
+    "livros": [
+        {"nome": "Um de nós está mentindo","genero": "mistério","id": 1010,"preço": 50.00},
+        {"nome": "Outlander", "genero": "Ficção de aventura", "id": 2020, "preço": 60.00},
+        {"nome": "Confissões de uma garota linda, popular e secretamente infeliz", "genero": "adolecente", "id": 3030, "preço": 70.00},
+        {"nome": "Crepúscula", "genero": "fantasia", "id": 4040, "preço": 80.00}
+    ],
+
+    "clientes": [
+        {"nome":"Fracyelle", "cpf":"111.111.111-11", "id":100, "telefone": "99999-9999"},
+        {"nome":"Emanuele", "cpf":"111.111.111-22", "id":200, "telefone": "99999-9988"},
+        {"nome":"Mateus", "cpf":"111.111.111-77", "id":300, "telefone": "99999-9977"},
+        {"nome":"Lucas", "cpf":"111.111.111-44", "id":400, "telefone": "99999-9955"}
+    ]
+}
